@@ -9,11 +9,11 @@ setuptools.setup(
     name="gw_interview_py",
     version="0.0.1",
 
-    description="An empty CDK Python app",
+    description="A CDK app of AWS interview",
     long_description=long_description,
     long_description_content_type="text/markdown",
 
-    author="author",
+    author="Gucci Wu",
 
     package_dir={"": "gw_interview_py"},
     packages=setuptools.find_packages(where="gw_interview_py"),
